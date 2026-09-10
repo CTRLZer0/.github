@@ -41,8 +41,8 @@ Public signed iOS/arm64 runtime packages and catalogs used by the Mosaic ecosyst
 ### [controldocs](https://github.com/CTRLZer0/controldocs)
 Technical papers, documentation, and research material published by CtrlZer0Dev.
 
-### [VerdeVivo-WebLandingPage](https://github.com/CTRLZer0/VerdeVivo-WebLandingPage)
-A showcase project demonstrating a modern, responsive web product experience.
+### Mosaic
+A native-first compatibility runtime focused on running macOS applications on iOS and iPadOS without relying on streaming. Mosaic explores low-level runtime compatibility, platform abstraction, application packaging, and developer tooling across the Apple ecosystem.
 
 ## How we build
 
