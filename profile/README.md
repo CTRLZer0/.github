@@ -63,6 +63,14 @@ We try to keep a few principles consistent across everything we work on:
 | **Seregon** | Software engineering, systems programming, runtimes, tooling, research |
 | **France** | Product design, visual design, UX, project identity |
 
+## Join the team
+
+CtrlZer0Dev is a small team, but it does not have to stay that way. If you are interested in systems programming, runtimes, developer tooling, research, networking, UI/UX, documentation, testing, or design, contributing to our projects is the best way to get involved.
+
+We welcome thoughtful pull requests, bug reports, technical discussions, testing, documentation improvements, and new ideas. Consistent contributors who share our approach to open development and care about the quality of the work may also have the opportunity to become a more permanent part of the team.
+
+You do not need to know everything before contributing. Pick a project that interests you, explore the codebase, join an existing discussion, or open an issue with an idea you would like to work on.
+
 ## Follow our work
 
 You can explore our public repositories here on GitHub or visit **[ctrlzero.dev](https://ctrlzero.dev/)** for more information about the team and our projects.
