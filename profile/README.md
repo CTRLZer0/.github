@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/182473672?s=180&v=4" width="120" alt="CtrlZer0Dev logo" />
+<img src="../assets/Versione_lunga1_no_bg.png" width="420" alt="CtrlZer0Dev logo" />
 
 # CtrlZer0Dev
 
