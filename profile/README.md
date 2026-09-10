@@ -2,8 +2,6 @@
 
 <img src="../assets/Versione_lunga1_no_bg.png" width="420" alt="CtrlZer0Dev logo" />
 
-# CtrlZer0Dev
-
 ### Open-source software, systems research, and developer tools built by a small independent team.
 
 [Website](https://ctrlzero.dev/) · [Repositories](https://github.com/orgs/CTRLZer0/repositories) · [Documentation](https://github.com/CTRLZer0/controldocs)
